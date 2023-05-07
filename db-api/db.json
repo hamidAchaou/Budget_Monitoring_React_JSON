@@ -1,0 +1,84 @@
+{
+  "dataManagement": [
+    {
+      "id": 1,
+      "montant": "5200",
+      "description": "acheter un telephone",
+      "category": "techno",
+      "type": "expense",
+      "date": "2023-05-02"
+    },
+    {
+      "id": 2,
+      "montant": "150",
+      "description": "acheter une pantalon",
+      "category": "close",
+      "type": "expense",
+      "date": "2023-05-03"
+    },
+    {
+      "id": 3,
+      "montant": "5000",
+      "description": "enter salary",
+      "category": "salair",
+      "type": "income",
+      "date": "2023-05-01"
+    },
+    {
+      "id": 4,
+      "montant": "400",
+      "description": "enter prima",
+      "category": "prima",
+      "type": "income",
+      "date": "2023-05-01"
+    },
+    {
+      "montant": "5200",
+      "description": "acheter une tv",
+      "category": "techno",
+      "type": "expense",
+      "date": "2023-05-04",
+      "id": 5
+    },
+    {
+      "montant": "40",
+      "description": "Pizza",
+      "category": "food",
+      "type": "expense",
+      "date": "2023-05-04",
+      "id": 6
+    },
+    {
+      "montant": "120",
+      "description": "voiyage a raba",
+      "category": "voiyage",
+      "type": "expense",
+      "date": "2023-05-05",
+      "id": 7
+    },
+    {
+      "montant": "500",
+      "description": "voiyage",
+      "category": "transport",
+      "type": "expense",
+      "date": "2023-05-03",
+      "id": 8
+    },
+    {
+      "montant": "40",
+      "description": "pizza",
+      "category": "food",
+      "type": "expense",
+      "date": "2023-05-01",
+      "id": 9
+    },
+    {
+      "montant": "10000",
+      "description": "Motorcycle sale",
+      "category": "transport",
+      "type": "income",
+      "date": "2023-05-10",
+      "id": 10
+    }
+  ]
+}
